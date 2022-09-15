@@ -19,8 +19,10 @@
   "homepage": "https://github.com/daenamcclintock/Solana-API#readme",
   "dependencies": {
     "@metaplex-foundation/js": "^0.15.0",
+    "@metaplex/js": "^4.12.0",
     "@solana/web3.js": "^1.61.1",
     "axios": "^0.27.2",
+    "dotenv": "^16.0.2",
     "express": "^4.18.1",
     "nodemon": "^2.0.19"
   }
